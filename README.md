@@ -5,9 +5,9 @@
     <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/react-js-and-vite-js-logo-on-night-sky-background.jpg" alt="(Vite React Img)"
       height = "70" width= "100"/>
   </li>
-  <li style = "display: flex; justify-content:center; align-items: center;  border-radius: 999rem">
+  <li style = "display: flex; justify-content:center; align-items: center;  border-radius: 100px">
     Tailwind CSS for designing the page
-    <img src="https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" alt="(CSS)" 
+    <img src="https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" alt="CSS" 
       height = "50" width= "50"/>
   </li>
   <li>
