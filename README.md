@@ -20,12 +20,12 @@ A demo landing page depicting modularity and responsiveness, alongwith better SE
 2. npm run build (For build version)
 
 
-<img width="749" alt="image" src="https://github.com/mank-423/LandingPage/assets/96490105/52bb0c5a-950e-4202-84ba-0a8582620cd0">
+<img alt="image" src="https://github.com/mank-423/LandingPage/assets/96490105/52bb0c5a-950e-4202-84ba-0a8582620cd0">
 
 <br/>
 
 Using hamburger for smaller screens
-<img width="509" alt="image" src="https://github.com/mank-423/LandingPage/assets/96490105/050b0910-067f-4176-b1dc-df0c0f4a1df6">
+<img alt="image" src="https://github.com/mank-423/LandingPage/assets/96490105/050b0910-067f-4176-b1dc-df0c0f4a1df6">
 
 <br/>
 
