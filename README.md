@@ -1,13 +1,14 @@
 # Landing Page
 <ul>
-  <li style = "display: flex";>
+  <li style = "display: flex;">
     Made using React + Vite
     <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/react-js-and-vite-js-logo-on-night-sky-background.jpg" alt="(Vite React Img)"
-      height = "20" width= "20"/>
+      height = "50" width= "50"/>
   </li>
-  <li class="flex">
+  <li style = "display: flex;">
     Tailwind CSS for designing the page
-    <img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="(CSS)" />
+    <img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="(CSS)" 
+      height = "50" width= "50"/>
   </li>
   <li>
     Handles responsiveness greatly
