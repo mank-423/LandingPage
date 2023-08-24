@@ -7,7 +7,7 @@
   </li>
   <li style = "display: flex; justify-content:center; align-items: center;  border-radius: 999rem">
     Tailwind CSS for designing the page
-    <img src="[https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="(CSS)](https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png)" 
+    <img src="https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png" alt="(CSS)" 
       height = "50" width= "50"/>
   </li>
   <li>
