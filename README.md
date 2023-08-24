@@ -3,11 +3,11 @@
   <li style = "display: flex;">
     Made using React + Vite
     <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/react-js-and-vite-js-logo-on-night-sky-background.jpg" alt="(Vite React Img)"
-      height = "50" width= "50"/>
+      height = "70" width= "100"/>
   </li>
   <li style = "display: flex;">
     Tailwind CSS for designing the page
-    <img src="https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="(CSS)" 
+    <img src="[https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj" alt="(CSS)](https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png)" 
       height = "50" width= "50"/>
   </li>
   <li>
