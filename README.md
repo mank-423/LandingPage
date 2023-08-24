@@ -3,7 +3,7 @@
   <li style = "display: flex";>
     Made using React + Vite
     <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/react-js-and-vite-js-logo-on-night-sky-background.jpg" alt="(Vite React Img)"
-      height = "20px" width= "20px"/>
+      height = "20" width= "20"/>
   </li>
   <li class="flex">
     Tailwind CSS for designing the page
